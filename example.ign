@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.3.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDqbfuXN1lCHV8Cal+CzTGiKFhOZ+IH40g8a0hILqISiK2obHu6rMqb0hpm3iak8p2mtcixzsnB7gVnldIbJjSPHD2Ku9MAvjPj1Z+CU5JA2H5RNv+dOoxxvFyZTX4T+iLpfKBbDeO/VY2cqaki60S+eatjoFDDf1CyO4lfd/lTQ4HdJnqY5kJat/pADyw+uDOGX+2Jr1bYkEAsyKHhWq/MmkxJCYCCqPiHK8KEDrj3J/2V6+nPPmoTJzPV3wV27qimP/SmxqvDUoMbyNjvs6MNw+W9NBB3gyUn70iYt1adYRrgy3CMEO4oqe+l4SOGxBAK3Z4vS1YLhObt6XUBx2BCctyMhdFaWpy9qnYYFlfny5DrLJKnXhsZDAOy+TsVv0ALHlNxjBZO60Wjfoz/VZHdns8GXrzL+8Xti8Mo0YJ/hNNuOYuI9ly/IocemLz8tJT6NgiBIP/JNbV0rnW5kJkkiV4zqDSstjtSUpeKsjU239qWvA3Fg6N4f+Ja7XwcHFc= mheymann@treizewifi.home"
+        ]
+      }
+    ]
+  }
+}
